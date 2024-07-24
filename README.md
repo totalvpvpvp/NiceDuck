@@ -8,7 +8,7 @@ NiceDuck机场，全隧道中转线路，国内多入口，高SLA保证，提供
 
 全节点流媒体支持，包括但不限于ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等
 
-Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台。1
+Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台。11
 
 ## NiceDuck优惠码
 

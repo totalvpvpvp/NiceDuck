@@ -18,7 +18,7 @@ Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台。111111
 
 🔺限月付、季付、半年付使用 111111111111111111
 
-😆8折优惠码：duck-8
+😆8折优惠码：duck-81
 
 🔺限年付使用
 
